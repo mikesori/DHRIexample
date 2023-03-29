@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "DHRI Example Post"
-categories: example
 ---
 
 # Welcome to the DHRI.
